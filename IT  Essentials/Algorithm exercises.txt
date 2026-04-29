@@ -1,0 +1,208 @@
+#####  Cree un algoritmo para ver un video en YouTube. Sea lo mas especifico posible.
+
+
+Algorithm: Watch a Video on YouTube
+
+
+1. Start Environment
+   1.Verify the environment
+     1.Confirm you are at home.
+     2.Confirm a computer is available.
+     3.Confirm a TV is present
+   2 .Verify system readiness
+     1.Ensure the computer is powered on.
+     2.Ensure the monitor is displaying the desktop.
+     3.Ensure the internet connection is active.
+   3.Verify required tools
+     1.Confirm a TV remote control is available.
+     2.Confirm a mouse and keyboard are connected.  
+2. Turn On the TV
+  1.Locate the remote control
+     1.Search the table or nearby furniture.
+     2.Identify the remote that belongs to the TV.
+  2.Pick up the remote control
+     1.Grab the remote with one hand.
+     2.Ensure the front of the remote faces outward.
+  3.Point the remote toward the TV
+     1.Face the television.
+     2.Aim the remote toward the TV sensor.
+  4.Locate the power button
+     1.Look at the top section of the remote.
+     2.Identify the red circular button labeled Power.
+  5.Press the power button
+     1.Press the button once with your finger.
+     2.Release the button.
+  6.Confirm the TV is on
+     1.Observe that the screen lights up.
+     2.Check that the standby light disappears.
+     3.Wait until the TV finishes loading the display.
+3. Access a Web Browser
+  1.Locate the browser application
+     1.Move the mouse cursor to the desktop.
+     2.Look for the Firefox application icon.
+  2.Open Firefox
+     1.Move the mouse cursor over the Firefox icon.
+     2.Launch the browser
+       1.Double-click the left mouse button.
+       2.Wait for the application to open.    
+  3.Confirm the browser opened
+     1.Verify the Firefox window appears.
+     2.Confirm the browser interface is visible.	 
+4. Access a Web Browser
+  1.Locate the browser application
+     1.Move the mouse cursor to the desktop.
+     2.Look for the Firefox application icon.	 
+  2.Open Firefox
+     1.Move the mouse cursor over the Firefox icon.
+     2.Launch the browser	 	 
+       1.Double-click the left mouse button.
+       2.Wait for the application to open.
+  3.Confirm the browser opened
+     1.Verify the Firefox window appears.
+     2.Confirm the browser interface is visible.	  
+5.Open YouTube Website
+  1.Navigate to the browser address bar
+     1.Move the mouse cursor to the address bar at the top of the browser.
+     2.Click once inside the address bar.   
+  2.Prepare the address bar
+     1.Highlight any existing text
+	   1.Drag the cursor across the text.
+     2.Delete existing text
+	   1.Press the Delete key on the keyboard.
+  3.Enter the website address
+     1.Type youtube.com
+	   1.Press the corresponding keys on the keyboard.  
+	   2.Confirm the text appears correctly in the address bar. 	
+     2.Submit the request
+	   1.Press the Enter key. 	
+  4.Wait for the page to load
+     1.Observe the loading animation.   
+     2.Verify the YouTube homepage appears. 	   
+6.Search for a Video
+  1.Locate the YouTube search bar
+     1.Look at the top center of the webpage.	
+     2.Identify the rectangular search field.
+  2.Activate the search bar
+     1.Move the mouse cursor over the search field.
+     2.Click once inside the field.
+  3.Enter the video title
+     1.Type the name of the desired video
+       1.Press the appropriate keys on the keyboard.
+       2.Verify the typed text appears correctly.
+  4.Execute the search
+     1.Press the Enter key. 
+     2.Wait for the search results page to load.
+7.Select a Video
+  1.Review the search results
+     1.Observe the list of videos displayed.
+     2.Identify the desired video by title or thumbnail.
+  2.Scroll if necessary
+     1.Use the mouse scroll wheel.
+     2.Continue scrolling until the desired video appears.
+  3.Open the video
+     1.Move the mouse cursor over the video thumbnail.
+     2.Click the left mouse button once.
+8.Play the Video
+  1.Wait for the video page to load
+     1.Observe the YouTube video player.
+     2.Wait for buffering to complete.	 
+  2.Start the video if autoplay is disabled.
+     1.Locate the play button
+	   1.Move the mouse over the video player.
+     2.Click the play button.	 
+9.End
+  1.Finish watching the video
+    1.Wait until the video finishes Or manually stop the playback.
+  2.Close the browser
+    1.Move the cursor to the top right corner of the window.
+    2.Click the X button. 
+  3.Close the browser	 
+
+
+
+#####  Create an algorithm that describes your daily routine. Use conditions, multiple conditions, and cycle
+
+
+1.Start the Day
+  1.Wake up
+     1.Wait until the alarm rings.
+     2.Stop the alarm.
+	   1.Press the stop button.
+  2.Get out of bed
+     1.Sit up.
+     2.Place feet on the floor.
+	 3.Stand up. 
+2.Personal Hygiene Routine
+  1.Go to the bathroom.	
+  2.Brush teeth
+     1.Take the toothbrush.
+     1.Apply toothpaste.	 
+  3.WHILE the teeth are not clean: 
+     1.Brush the upper teeth.
+     2.Brush the lower teeth.	
+  4.Rinse mouth with water.
+  5.Wash hands.
+3.Prepare Breakfast
+  1.Go to the kitchen.	
+  2.Open the refrigerator.
+  3.Check available ingredients.
+  4.IF eggs AND bread are available:
+     1.Prepare eggs.
+     2.Prepare toast. 
+  3.IF NO, if cereal OR milk is available:
+     1.Pour cereal into a bowl.
+     2.Add milk.	
+  4.OTHERWISE:
+     1.Eat fruit.
+     2.Drink water or coffee.
+4.Wash All Dishes
+  1.Go to the kitchen sink
+  2.Tke a sponge.
+  3.FOR each dirty dish:
+     1.Fill the sponge with soap.
+     2.Take the dirty dish. 
+     3.WHILE the dish is dirty:
+       1.Scrub the dish with the sponge.
+       2.Rinse the dish with water.	
+  4.Place the clean dish on the drying rack.
+5.Prepare Items to Leave the Work
+  1.Create a list of required items
+    1.Phone
+    2.Wallet
+    3.Keys
+    4.Backpack
+  2.FOR each item in the list:
+    1.Check if the item is present.
+    2.IF the item is missing:
+	   1.Search the house for the item.
+6.Choose Transportation to Work
+  1.Prepare to leave home
+     1.Put on shoes.
+     1.Take house keys.
+  2.Select transportation method
+  3.IF you have a car:
+     1.Put on shoes.
+     2.Unlock the car.
+     3.Start the car engine.
+     4.Drive to work.
+  4.IF NO, if you have a motorcycle:
+     1.Go to the parking area.
+     2.Put on a helmet.
+     3.Start the motorcycle.
+     4.Ride to work. 
+  5.IF NO, if you have a bicycle:
+     1.Go to the bicycle storage area.
+     2.Unlock the bicycle.
+     3.Ride the bicycle to work.
+  6.OTHERWISE:
+     1.Walk to the bus stop.
+     2.Wait for the bus.
+     3.Board the bus.
+     4.Travel to work. 	   
+7.Leave the House
+  1.Put on shoes.   
+  2.Open the door.
+  3.Exit the house.
+  4.Lock the door.
+8. End
+  1.Start the commute to work.

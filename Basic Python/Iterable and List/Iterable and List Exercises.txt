@@ -1,0 +1,54 @@
+##### 1
+
+For these exercises you should use only what you saw in class. It is not valid to use functions such as or .zipreversed
+Create a program that iterates and prints the values of two lists of the same size at the same time.
+Examples:
+first_list = ['There is', 'in', 'that', 'iteration', 'indices', 'very']
+second_list = ['cases', 'the', 'the', 'for', 'is', 'useful'] ->
+
+There are 
+caseswhere
+index iteration
+is
+very useful
+
+#### 2
+
+Create a program that iterates and prints a string letter by letter from right to left.
+Hint: investigate other ways the range can be used.
+Examples:
+my_string = 'Pizza with pineapple' →
+a
+ñ
+i
+p
+
+n
+o
+c
+
+a
+z
+z
+i
+p
+
+
+#### 3
+
+Create a program that swaps the first and last items in a list. It should work with lists of any size.
+Examples:
+my_list = [4, 3, 6, 1, 7] → [7, 3, 6, 1, 4]
+
+#### 4
+
+Create a program that removes all odd numbers from a list.
+Examples:
+my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9] → [2, 4, 6, 8]
+
+
+#### 5
+
+Create a program that asks the user for 10 numbers, and at the end shows you all the numbers you entered, followed by the highest number entered.
+Examples:
+86, 54, 23, 54, 67, 21, 2, 65, 10, 32 → [86, 54, 23, 54, 67, 21, 2, 65, 10, 32]. The highest was 86.

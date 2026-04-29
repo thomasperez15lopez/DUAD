@@ -1,0 +1,8 @@
+Create a calculator per command line. This should have a current number, and a menu to decide what operation to do with another number:
+1. Add
+2. Subtraction
+3. Multiplication
+4. Division
+5. Delete result
+When selecting an option, the user must enter the new number to add, subtract, multiply, or divide by the current one. The result should become the new current number.
+It should display error messages if the user selects an invalid option, or if an invalid number is entered at the time of operation.

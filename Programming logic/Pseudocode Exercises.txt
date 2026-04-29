@@ -1,0 +1,80 @@
+### 1
+
+Create a pseudocode that asks the user for a product price, calculates their discount and shows the final price taking into account that:
+If the price is less than 100, the discount is 2%.
+If the price is greater than or equal to 100, the discount is 10%.
+Examples:
+120 → 108
+40 → 39.2
+
+1.Inicio
+2.Definir  precio_de_producto    
+3.Definir descuento             
+4.Definir  precio_final       
+5.Mostrar "Indique el precio de producto"
+6.Pedir precio_de_producto
+7.si ( precio_de_producto < 100 ) entonces :
+   a.descuento = precio_de_producto * 0.02 
+8.sino:
+   a.descuento = precio_de_producto * 0.1  
+9.FinSi
+10.precio_final= precio_de_producto - descuento   
+11.Mostrar "El precio final es de"
+12.Mostrar precio_final
+13.Fin
+
+
+
+### 2
+
+Create a pseudocode that asks the user for a time in seconds and calculates whether it is less or more than 10 minutes. If it is less, show how many seconds would be left to reach 10 minutes. If it is larger, show "Larger". If it's exactly the same, show "Same."
+Examples:
+1040 → Major
+140 → 460
+600 → Equal
+599 → 1
+
+
+1. Inicio
+2. Definir tiempo_en_segundos
+3. Definir menor_a_10_minutos
+4. Definir time = 600  
+5. Mostrar "Indique el tiempo en segundos"
+6. Pedir tiempo_en_segundos 
+7. Si (tiempo_en_segundos < time) Entonces:
+      a. menor_a_10_minutos = time - tiempo_en_segundos                   >>>>   ***how many seconds would be left***
+      b. Mostrar "te faltaria estos segundos para llegar a 10 minutos"
+      c. Mostrar menor_a_10_minutos
+8. Sino 
+      a. Si (tiempo_en_segundos = time) Entonces:
+            i. Mostrar "Igual"
+      b. Sino
+            i. Mostrar "Mayor"
+      c. FinSi
+9. FinSi
+10. Fin
+
+### 3
+
+Create an algorithm that asks the user for a number, and sum each number from 1 to that number entered. Then show the result of the sum.
+5 → 15 (1 + 2 + 3 + 4 + 5)
+3 → 6 (1 + 2 + 3)
+12 → 78 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12)
+
+
+
+1. Inicio
+2. Definir numero_ingresado
+3. Definir contador
+4. Definir suma_total
+5. Mostrar â€œIngrese un numeroâ€
+6. Pedir numero_ingresado
+7. contador = 1
+8. suma_total = 0
+9. Mientras que (contador â‰¤ numero_ingresado) hacer:
+   a.suma_total = suma_total + contador
+   b.contador = contador + 1
+10.FinMientras
+11. Mostrar â€œLa suma total esâ€
+12. Mostrar suma_total
+13. Fin

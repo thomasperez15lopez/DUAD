@@ -1,0 +1,52 @@
+
+
+####### 4
+
+Create a flowchart that has a secret number from 1 to 10, and ask the user to guess that number. The algorithm should not end until the user guesses the number
+
+
+1. Inicio
+2. Definir Adivina_el_numero
+3. Definir contador
+4. Definir numero_secreto
+5. Mostrar "Adivina el número del 1 al 10"
+6. Pedir Adivina_el_numero                    
+7. contador = 2
+8. numero_secreto = 7
+9. Mientras que (numero_secreto != Adivina_el_numero) hacer:
+   a. Mostrar "Fallaste, haz tu intento número"
+   b. Mostrar contador
+   c. Pedir Adivina_el_numero               
+   d. contador = contador + 1
+10. FinMientras
+11. Mostrar "¡Correcto! Adivinaste el número"
+12. Fin
+
+###### 5
+
+Create a flowchart that asks the user for 3 numbers. If one of those numbers is 30, or if the 3 added together make 30, show "Correct". Otherwise, to show "incorrect".
+Examples:
+23, 30, 768 → Correct (there is a 30)
+10, 15, 5 → correct (10 + 15 + 5 = 30)
+35, 56, 2 → Incorrect (there is no 30, and the sum of them does not give 30 either)
+
+
+
+1. Inicio
+2. Definir numero_1
+3. Definir numero_2
+4. Definir numero_3
+5. Definir suma_total
+6. Mostrar "Digite el primer número"
+7. Pedir numero_1
+8. Mostrar "Digite el segundo número"
+9. Pedir numero_2
+10. Mostrar "Digite el tercer número"
+11. Pedir numero_3
+12. suma_total = numero_1 + numero_2 + numero_3
+13. Si (numero_1 == 30 O numero_2 == 30 O numero_3 == 30 O suma_total == 30) Entonces:
+    a. Mostrar "Correcto"
+14. Sino:
+    a. Mostrar "Incorrecto"
+15. FinSi
+16. Fin

@@ -1,0 +1,38 @@
+#### 1
+
+Create two functions that print two different things, and have the first one call the second.
+
+#### 2
+
+Experiment with the concept of scope:
+Try to access a defined variable within a function from the outside.
+Try to access a global variable from a function and change its value.
+
+#### 3
+
+Create a function that returns the sum of all the numbers in a list.
+The function will have a parameter (the list) and return a number (the sum of all its elements).
+[4, 6, 2, 29] → 41
+
+#### 4
+
+Create a function that flips a string and returns it.
+We already did this in iterables.
+"Hello world" → "odnum aloH"
+
+#### 5
+
+Create a function that prints the uppercase number and lowercase number in a string.
+"I love Nación Sushi" → "There's 3 upper cases and 13 lower cases"
+
+#### 6
+
+Create a function that accepts a string with words separated by a hyphen and returns an equal but alphabetically ordered string.
+You have to convert it to a list, sort it, and convert it back to a string.
+"python-variable-function-computer-monitor" → "computer-function-monitor-python-variable"
+
+#### 7
+Create a function that accepts a list of numbers and returns a list with the prime numbers of the number.
+[1, 4, 6, 7, 13, 9, 67] → [7, 13, 67]
+Tip 1: Research mathematical logic to find out if a number is prime, and convert it to code. Don't look for the code, that wouldn't help.
+Tip 2: Here you have to do several things (go through the list, check if each number is prime, and add it to another list). So it's best to add another function to check if the number is prime or not.

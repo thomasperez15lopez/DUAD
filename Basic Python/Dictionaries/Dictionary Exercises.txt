@@ -1,0 +1,31 @@
+##### 1
+
+Create a dictionary that stores the following information about a hotel:
+nombre
+numero_de_estrellas
+habitaciones
+
+
+The value of the room key should be listed, and each room should have the following information:
+numero
+piso
+precio_por_noche
+
+
+##### 2
+
+Create a program that creates a dictionary using two lists of the same size, using one for its keys, and the other for its values.
+
+Examples:
+list_a = ['first_name', 'last_name', 'role']
+list_b = ['Alek', 'Castle', 'Software Engineer']
+→ {'first_name': 'Alek', 'last_name': 'Castle', 'role': 'Software Engineer'}
+
+
+##### 3
+Create a program that uses a list to remove keys from a dictionary.
+
+Examples:
+list_of_keys = ['access_level', 'age']
+employee = {'name': 'John', 'email': 'john@ecorp.com', 'access_level': 5, 'age': 28}
+→ {'name': 'John', 'email': 'john@ecorp.com'}

@@ -1,0 +1,27 @@
+##### 1
+
+I created a program that allows me to enter information on n number of video games and save them in a csv file.
+It should include:
+Name
+Gender
+Developer
+ESRB Rating
+
+Final file example:
+
+nombre,genero,desarrollador,clasificacion
+Grand Theft Auto IV,Accion,Rockstar Games,M
+The Elder Scrolls IV: Oblivion,RPG,Bethesda,M
+Tony Hawk's Pro Skater 2,Deportes,Activision,T
+
+
+###### 2
+
+Read about the rest of the csv module's methods here and create an alternative version of the exercise above that saves the file separated by tabs instead of commas.
+
+Final file example:
+
+nombre	genero	desarrollador	clasificacion
+Grand Theft Auto IV	Accion	Rockstar Games	M
+The Elder Scrolls IV: Oblivion	RPG	Bethesda	M
+Tony Hawk's Pro Skater 2	Deportes	Activision	T

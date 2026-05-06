@@ -1,0 +1,10 @@
+##### 1
+
+Research how to read and write JSON files in Python here.
+
+###### 2
+
+Create a program that allows you to add a new Pokémon to the JSON lesson file (ipsum:lesson/python-basic/json-handling)
+You must read the file to import existing Pokémon.
+Then you need to ask for the information of the Pokémon to be added.
+Finally, you need to save the new Pokémon in the file.
